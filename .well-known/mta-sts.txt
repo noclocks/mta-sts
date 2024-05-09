@@ -1,6 +1,4 @@
 version: STSv1
 mode: testing
-mx: noclocks.dev
-mx: *.noclocks.dev
-mx: send.noclocks.dev
+mx: smtp.google.com
 max_age: 604800
